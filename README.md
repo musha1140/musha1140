@@ -115,11 +115,6 @@ A data pipeline that clusters **aggregate Wi-Fi SSID density** into region-level
 4) Output:
    - regime labels used as scenario-model inputs
 
-Optional proof artifacts you can embed:
-- `assets/ssid_clusters.png`
-- `assets/ssid_regimes.png`
-- `assets/ssid_regime_shifts_timeline.png`
-
 ---
 
 ## 3) MIDI / Entropy / Steganography — `.slayy` container workflows
