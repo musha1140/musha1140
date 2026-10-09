@@ -35,6 +35,62 @@ Systems: AI simulation, crypto/stego, data pipelines, optimization tooling.
 </p>
 
 
+## Stack
+
+Hardest in the middle, foundations on the edges.
+
+<p align="center">
+  <a href="https://github.com/musha1140/GS"><img alt="HTML" src="https://img.shields.io/badge/HTML-1f2937?style=flat-square&amp;logo=html5&amp;logoColor=white"></a>
+  <a href="https://github.com/musha1140/GS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1f2937?style=flat-square&amp;logo=css3&amp;logoColor=white"></a>
+  <a href="https://github.com/musha1140/GS"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&amp;logo=javascript&amp;logoColor=white"></a>
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-1f2937?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white">
+  <a href="https://mdtgf.vercel.app"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-1f2937?style=flat-square&amp;logo=vercel&amp;logoColor=white"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/musha1140/StratVest"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-064e3b?style=flat-square&amp;logo=typescript&amp;logoColor=white"></a>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-064e3b?style=flat-square&amp;logo=swift&amp;logoColor=white">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-064e3b?style=flat-square&amp;logo=lua&amp;logoColor=white">
+  <a href="https://github.com/musha1140/MacOS-Windows-with-Keychron-and-Corsair"><img alt="Shell" src="https://img.shields.io/badge/Shell-064e3b?style=flat-square&amp;logo=gnubash&amp;logoColor=white"></a>
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-064e3b?style=flat-square">
+  <a href="https://github.com/musha1140/StratVest"><img alt="Docker" src="https://img.shields.io/badge/Docker-064e3b?style=flat-square&amp;logo=docker&amp;logoColor=white"></a>
+  <img alt="Nix" src="https://img.shields.io/badge/Nix-064e3b?style=flat-square&amp;logo=nixos&amp;logoColor=white">
+</p>
+<p align="center">
+  <img alt="LLVM backend" src="https://img.shields.io/badge/LLVM%20backend-10b981?style=flat-square&amp;logo=llvm&amp;logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-10b981?style=flat-square&amp;logo=cplusplus&amp;logoColor=white">
+  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-10b981?style=flat-square">
+  <img alt="Bazel" src="https://img.shields.io/badge/Bazel-10b981?style=flat-square&amp;logo=bazel&amp;logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-10b981?style=flat-square&amp;logo=c&amp;logoColor=white">
+</p>
+<p align="center">
+  <img alt="Brainfuck" src="https://img.shields.io/badge/Brainfuck-d1fae5?style=for-the-badge">
+  <a href="https://github.com/musha1140/morse-beacon"><img alt="Morse" src="https://img.shields.io/badge/Morse-d1fae5?style=for-the-badge"></a>
+  <a href="https://github.com/musha1140/JSEntropy"><img alt="Python" src="https://img.shields.io/badge/Python-d1fae5?style=for-the-badge&amp;logo=python&amp;logoColor=020604"></a>
+</p>
+<p align="center">
+  <img alt="Go" src="https://img.shields.io/badge/Go-10b981?style=flat-square&amp;logo=go&amp;logoColor=white">
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-10b981?style=flat-square&amp;logo=solidity&amp;logoColor=white">
+  <img alt="three.js" src="https://img.shields.io/badge/three.js-10b981?style=flat-square&amp;logo=threedotjs&amp;logoColor=white">
+  <img alt="Tone.js" src="https://img.shields.io/badge/Tone.js-10b981?style=flat-square">
+  <img alt="AES-GCM" src="https://img.shields.io/badge/AES--GCM-10b981?style=flat-square">
+</p>
+<p align="center">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-064e3b?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-064e3b?style=flat-square&amp;logo=react&amp;logoColor=white">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-064e3b?style=flat-square">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-064e3b?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-064e3b?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-064e3b?style=flat-square&amp;logo=jupyter&amp;logoColor=white">
+  <img alt="Discord bots" src="https://img.shields.io/badge/Discord%20bots-064e3b?style=flat-square&amp;logo=discord&amp;logoColor=white">
+</p>
+<p align="center">
+  <a href="https://musha1140.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-1f2937?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
+  <a href="https://github.com/musha1140"><img alt="Git · GitHub" src="https://img.shields.io/badge/Git%20%C2%B7%20GitHub-1f2937?style=flat-square&amp;logo=git&amp;logoColor=white"></a>
+  <a href="https://ionic-react-ebon.vercel.app"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-1f2937?style=flat-square&amp;logo=ionic&amp;logoColor=white"></a>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white">
+</p>
+
+
 ---
 
 ## Quick Index
