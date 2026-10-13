@@ -1,0 +1,24 @@
+{
+  "base": "sigil",
+  "identity": "musha1140",
+  "architecture": "GSL-mdtgf",
+  "status": "active",
+  "substrate": {
+    "title": "Samsara Substrate",
+    "seed": 656,
+    "parameters": {
+      "voices": 2000,
+      "cycleSeconds": 16.56,
+      "pulseSteps": 16,
+      "payloadRate": 0.06,
+      "karmicCarry": 0.05,
+      "trailFade": 0.028,
+      "latticeScale": 0.24
+    },
+    "colorPalette": [
+      "#34d399",
+      "#ffd700",
+      "#e6ebf2"
+    ]
+  }
+}
